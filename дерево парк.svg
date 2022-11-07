@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="дерево парк.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:zoom="0.85165544"
+     inkscape:cx="375.15172"
+     inkscape:cy="425.05453"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer7"
+     inkscape:snap-global="true"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 105 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="297 : 105 : 1"
+       inkscape:persp3d-origin="148.5 : 70 : 1"
+       id="perspective11900" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="фон небо облака">
+    <path
+       id="rect50247"
+       style="opacity:1;fill:#b0cbfa;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       d="m 386.09766,105.9707 c -19.18969,0 -34.63868,15.44899 -34.63868,34.63868 v 4.69531 c 0,9.74601 3.98985,18.52229 10.42579,24.80469 H 324.0332 c -19.18968,0 -34.63867,15.44898 -34.63867,34.63867 v 4.69531 c 0,14.68091 9.04713,27.16322 21.88867,32.22266 -13.39049,4.78237 -22.92578,17.54315 -22.92578,32.61718 v 4.69532 c 0,19.18968 15.44899,34.63867 34.63867,34.63867 h 32.11329 c -8.77884,6.27149 -14.5,16.52325 -14.5,28.18164 v 4.69531 c 0,13.97703 8.1989,25.96339 20.0664,31.44727 h -92.74219 c -19.18968,0 -34.63671,15.44703 -34.63671,34.63671 v 4.69727 c 0,19.18968 15.44703,34.63867 34.63671,34.63867 h 21.95118 c -3.48505,5.40643 -5.51172,11.84962 -5.51172,18.78711 v 4.69727 c 0,15.19909 9.69598,28.04237 23.26172,32.73047 h -6.08985 c -19.18968,0 -34.63867,15.44703 -34.63867,34.63671 v 4.69727 c 0,11.61395 5.66475,21.85094 14.38672,28.12891 -7.28346,6.34086 -11.89453,15.66548 -11.89453,26.125 v 4.69531 c 0,19.18968 15.44899,34.63867 34.63867,34.63867 h 530.98828 c 19.18968,0 34.63867,-15.44899 34.63867,-34.63867 v -4.69531 c 0,-11.61323 -5.66372,-21.85084 -14.38476,-28.12891 7.28346,-6.34086 11.89453,-15.66548 11.89453,-26.125 v -4.69727 c 0,-15.19909 -9.69599,-28.04237 -23.26172,-32.73046 h 6.71094 c 19.18968,0 34.63867,-15.44704 34.63867,-34.63672 v -4.69727 c 0,-19.18968 -15.44899,-34.63867 -34.63867,-34.63867 h -21.95117 c 3.48524,-5.40653 5.51367,-11.84941 5.51367,-18.78711 v -4.69727 c 0,-13.97722 -8.20059,-25.96154 -20.06836,-31.44531 h 93.62304 c 19.18969,0 34.63868,-15.44899 34.63868,-34.63867 v -4.69531 c 0,-19.18969 -15.44899,-34.63867 -34.63868,-34.63867 h -32.11328 c 8.77884,-6.27149 14.5,-16.52326 14.5,-28.18164 v -4.69532 c 0,-14.99039 -9.42771,-27.69725 -22.70117,-32.54101 12.94333,-5.01015 22.07813,-17.54486 22.07813,-32.29883 v -4.69531 c 0,-19.18969 -15.44704,-34.63867 -34.63672,-34.63867 h -60.6836 c 6.43594,-6.2824 10.42579,-15.05868 10.42579,-24.80469 v -4.69531 c 0,-19.18969 -15.44899,-34.63868 -34.63868,-34.63868 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       id="rect48903"
+       style="opacity:1;fill:#f6f6f6;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       d="m 479.81445,121.30469 c -10.69433,0 -19.30273,8.6084 -19.30273,19.30273 0,3.32386 0.83136,6.4467 2.29883,9.17188 h -42.29297 c -10.69434,0 -19.30274,8.6084 -19.30274,19.30273 0,10.69434 8.6084,19.30469 19.30274,19.30469 h 107.32226 c 10.69434,0 19.30469,-8.61035 19.30469,-19.30469 0,-3.32327 -0.8338,-6.44508 -2.30078,-9.16992 h 11.91016 c 10.69433,0 19.30468,-8.61035 19.30468,-19.30469 0,-10.69433 -8.61035,-19.30273 -19.30468,-19.30273 z m 170.48243,32.00195 c -13.68416,0 -24.70118,11.01702 -24.70118,24.70117 0,13.68415 11.01702,24.70117 24.70118,24.70117 h 59.84179 c -1.36119,3.06785 -2.12305,6.4651 -2.12305,10.04883 0,13.68415 11.01703,24.70117 24.70118,24.70117 h 89.46093 c 13.68415,0 24.70118,-11.01702 24.70118,-24.70117 0,-13.68415 -11.01703,-24.70117 -24.70118,-24.70117 h -52.77539 c 1.3612,-3.06784 2.12305,-6.4651 2.12305,-10.04883 0,-13.68415 -11.01702,-24.70117 -24.70117,-24.70117 z"
+       transform="scale(0.26458333)"
+       inkscape:label="облака"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="кусты на заднем фоне"
+     style="display:inline;opacity:1">
+    <ellipse
+       style="opacity:1;fill:#e3a584;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="ellipse45692"
+       cx="100.66275"
+       cy="170.63142"
+       rx="12.310315"
+       ry="12.928071"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#e4a581;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="ellipse32193"
+       cx="221.91876"
+       cy="167.96347"
+       rx="8.2927866"
+       ry="6.2333202"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#ea6f2c;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="path30588"
+       cx="221.76341"
+       cy="170.99069"
+       rx="8.2927866"
+       ry="6.2333202"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#e4a582;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="ellipse33406"
+       cx="205.93729"
+       cy="170.21513"
+       rx="8.2927866"
+       ry="6.2333202"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#9a727a;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="ellipse34658"
+       cx="206.12953"
+       cy="172.85126"
+       rx="8.9792757"
+       ry="6.2333202"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#e3a482;fill-opacity:1;stroke:none;stroke-width:0.199999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="circle42195"
+       cx="164.99535"
+       cy="166.47978"
+       rx="20.110743"
+       ry="7.606298"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#ea6f2c;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="ellipse35988"
+       cx="192.60136"
+       cy="172.58334"
+       rx="7.8544016"
+       ry="5.9038053"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#ea6f2c;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="ellipse42193"
+       cx="154.38902"
+       cy="170.95233"
+       rx="9.7184181"
+       ry="5.9038053"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <circle
+       style="opacity:1;fill:#e3a582;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="path36900"
+       cx="167.55838"
+       cy="171.52817"
+       r="7.606298"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <circle
+       style="opacity:1;fill:#ea6f2c;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="path36012"
+       cx="178.7068"
+       cy="172.66573"
+       r="6.9198093"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#9a727a;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="ellipse36876"
+       cx="135.17403"
+       cy="170.6545"
+       rx="8.9792757"
+       ry="6.2333202"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#e3a584;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="path44472"
+       cx="72.003494"
+       cy="172.96144"
+       rx="12.310315"
+       ry="12.928071"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#753713;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="path45716"
+       cx="71.531647"
+       cy="172.65456"
+       rx="11.49477"
+       ry="8.8540792"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#ea6f2c;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="path43508"
+       cx="96.881699"
+       cy="171.76265"
+       rx="15.943299"
+       ry="10.605579"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <ellipse
+       style="opacity:1;fill:#e3a584;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="ellipse46931"
+       cx="116.36025"
+       cy="172.60852"
+       rx="5.9303422"
+       ry="6.2279387"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="дерево"
+     style="display:inline">
+    <path
+       id="path2497"
+       style="opacity:1;fill:#eb702d;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       d="m 567.77539,139.03125 a 77.802508,77.802508 0 0 0 -76.53711,64.11133 77.802508,77.802508 0 0 0 -33.83594,-7.75 77.802508,77.802508 0 0 0 -77.80273,77.80273 77.802508,77.802508 0 0 0 0.16601,4.42383 77.802508,77.802508 0 0 0 -2.20703,-0.0352 77.802508,77.802508 0 0 0 -77.80273,77.80274 77.802508,77.802508 0 0 0 77.80273,77.80273 77.802508,77.802508 0 0 0 77.80274,-77.80273 77.802508,77.802508 0 0 0 -0.13281,-4.47266 77.802508,77.802508 0 0 0 2.17382,0.082 77.802508,77.802508 0 0 0 76.53711,-64.10742 77.802508,77.802508 0 0 0 33.83594,7.74805 77.802508,77.802508 0 0 0 38.20508,-10.05664 77.802508,77.802508 0 0 0 50.24414,40.96484 77.802508,77.802508 0 0 0 -9.44141,37.04102 77.802508,77.802508 0 0 0 77.80274,77.80273 77.802508,77.802508 0 0 0 77.80273,-77.80273 77.802508,77.802508 0 0 0 -58.20312,-75.29102 77.802508,77.802508 0 0 0 9.41797,-36.99609 77.802508,77.802508 0 0 0 -77.80274,-77.80274 77.802508,77.802508 0 0 0 -38.1914,10.04883 77.802508,77.802508 0 0 0 -69.83399,-43.51367 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       id="rect4660"
+       style="opacity:1;fill:#763813;fill-opacity:1;stroke:none;stroke-width:0.755902;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       d="m 590.11719,409.5332 c 0,0 0.20741,36.11656 -30.92774,57.4961 -21.79468,7.47246 -26.77677,10.58514 -37.57031,13.90625 -10.79357,3.32111 -17.01961,4.98242 -20.75586,4.98242 -1.86811,-0.41514 -2.49239,-0.83073 -1.66211,-4.35938 0.83029,-3.52868 4.56712,-19.09578 -13.07617,-39.4375 -17.64333,-20.34168 -33.00391,-29.89062 -33.00391,-29.89062 l -5.39648,1.86914 c 0,0 14.7375,7.6784 26.36133,25.5293 11.62382,17.85086 11.62304,30.0988 11.62304,35.70312 0,5.60436 -0.20587,13.69884 -0.62109,15.35938 -0.41514,1.66053 -15.5678,15.1521 -24.07812,26.56836 -8.51029,11.41629 -32.58964,44.21289 -33.41993,77.42382 -0.51561,20.62519 2.89047,34.83419 5.54688,42.65039 h -75.15234 c -6.46939,0 -11.67774,5.20835 -11.67774,11.67774 v 0.83008 c 0,6.46938 5.20835,11.67773 11.67774,11.67773 h 204.05664 c 6.46938,0 11.67773,-5.20835 11.67773,-11.67773 v -0.83008 c 0,-6.46939 -5.20835,-11.67774 -11.67773,-11.67774 h -65.33008 c -1.14352,-0.56752 -29.6825,-14.91964 -39.85352,-39.33007 -10.37843,-24.90819 0.20882,-42.96678 4.77539,-51.26953 4.5665,-8.30272 21.17047,-30.92736 54.17383,-49.19336 33.00336,-18.26601 51.68555,-23.24805 51.68555,-23.24805 0,0 27.39796,-9.75452 33.625,-13.2832 6.22703,-3.52865 12.03913,-7.47203 18.05859,-12.2461 6.0195,-4.77403 15.98242,-12.03906 15.98242,-12.03906 l -3.94336,-0.83203 c 0,0 -27.1915,20.34199 -55.83593,27.81445 8.92543,-8.92543 20.96489,-30.51101 18.68164,-48.1543 -2.49083,-4.15139 -3.11328,-4.77539 -3.11328,-4.77539 z"
+       transform="scale(0.26458333)"
+       inkscape:label="ствол"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       id="path861"
+       style="opacity:1;fill:#9e4a1b;fill-opacity:1;stroke:none;stroke-width:0.755909;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       d="m 485.52539,217.81055 a 57.535004,57.535004 0 0 0 -57.53516,57.53515 57.535004,57.535004 0 0 0 0.62696,8.43555 66.341382,66.341382 0 0 0 -61.09766,66.125 66.341382,66.341382 0 0 0 66.3418,66.3418 66.341382,66.341382 0 0 0 30.00195,-7.21485 66.341382,66.341382 0 0 0 52.19141,25.41407 66.341382,66.341382 0 0 0 63.20312,-46.25196 66.341382,66.341382 0 0 0 64.19531,49.77539 66.341382,66.341382 0 0 0 66.3418,-66.34179 66.341382,66.341382 0 0 0 -66.3418,-66.3418 66.341382,66.341382 0 0 0 -5.53515,0.25 66.341382,66.341382 0 0 0 -64.33008,-50.15234 66.341382,66.341382 0 0 0 -31.75586,8.14062 57.535004,57.535004 0 0 0 -56.30664,-45.71484 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="кусты"
+     style="display:inline">
+    <g
+       id="g9551"
+       transform="translate(0.21967671,-0.21967648)"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <ellipse
+         style="opacity:1;fill:#9e4a1b;fill-opacity:1;stroke:none;stroke-width:0.200226;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+         id="ellipse7494"
+         cx="-108.86397"
+         cy="248.12703"
+         rx="6.567903"
+         ry="13.691441"
+         transform="matrix(-0.8895278,0.45688105,0.51561145,0.85682252,0,0)" />
+      <ellipse
+         style="opacity:1;fill:#eb702d;fill-opacity:1;stroke:none;stroke-width:0.20021;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+         id="ellipse8335"
+         cx="-234.47072"
+         cy="142.14594"
+         rx="9.2519417"
+         ry="19.291407"
+         transform="matrix(-0.99803913,-0.06259317,0.00224877,0.99999747,0,0)" />
+      <ellipse
+         style="opacity:1;fill:#9e4a1b;fill-opacity:1;stroke:none;stroke-width:0.200137;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+         id="path5967"
+         cx="292.82867"
+         cy="24.966526"
+         rx="6.6244884"
+         ry="13.924129"
+         transform="matrix(0.87544211,0.48332299,-0.52852689,0.84891656,0,0)" />
+    </g>
+    <g
+       id="g11869"
+       transform="translate(-0.09099298,-0.21967648)"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <ellipse
+         style="fill:#9e4a1b;fill-opacity:1;stroke:none;stroke-width:0.200406;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+         id="ellipse9557"
+         cx="169.55275"
+         cy="99.808617"
+         rx="9.1087189"
+         ry="18.74873"
+         transform="matrix(0.90201119,0.43171264,-0.51102635,0.85956505,0,0)" />
+      <ellipse
+         style="fill:#eb702d;fill-opacity:1;stroke:none;stroke-width:0.2002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+         id="ellipse9555"
+         cx="-89.766548"
+         cy="144.63863"
+         rx="12.435653"
+         ry="25.393625"
+         transform="matrix(-0.99811946,-0.0612988,0.00229644,0.99999736,0,0)" />
+      <ellipse
+         style="fill:#9e4a1b;fill-opacity:1;stroke:none;stroke-width:0.200227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000"
+         id="ellipse9553"
+         cx="15.276155"
+         cy="177.00861"
+         rx="8.8867159"
+         ry="18.525236"
+         transform="matrix(-0.88952779,0.45688107,0.51561146,0.85682252,0,0)" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="земля"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#eab042;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       id="rect47899"
+       width="198.70084"
+       height="12.582113"
+       x="50.223858"
+       y="174.51855"
+       rx="6.2910571"
+       ry="6.2910566"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       id="rect47030"
+       style="opacity:1;fill:#e2833f;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       d="m 484.30859,668.16211 c -5.95088,0 -10.74218,4.79131 -10.74218,10.74219 0,5.95088 4.7913,10.74218 10.74218,10.74218 h 435.78907 c 5.95088,0 10.74218,-4.7913 10.74218,-10.74218 0,-5.95088 -4.7913,-10.74219 -10.74218,-10.74219 z m -234.62695,7.47266 c -5.95088,0 -10.74219,4.7913 -10.74219,10.74218 0,5.95088 4.79131,10.74219 10.74219,10.74219 h 177.7832 c 5.95088,0 10.74219,-4.79131 10.74219,-10.74219 0,-5.95088 -4.79131,-10.74218 -10.74219,-10.74218 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="фонари"
+     style="display:inline">
+    <g
+       id="g19615"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g16733"
+         inkscape:label="флафон">
+        <rect
+           style="opacity:1;fill:#cd8948;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+           id="rect15713"
+           width="5.4919119"
+           height="10.379714"
+           x="69.417763"
+           y="112.035" />
+        <rect
+           style="opacity:1;fill:#e9b480;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+           id="rect14498"
+           width="5.4919119"
+           height="10.379714"
+           x="73.701454"
+           y="112.035" />
+      </g>
+      <g
+         id="g19597"
+         inkscape:label="стойка">
+        <rect
+           style="opacity:1;fill:#682917;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+           id="rect18304"
+           width="1.6201172"
+           height="42.177868"
+           x="72.795288"
+           y="128.62056" />
+        <rect
+           style="opacity:1;fill:#a8572b;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+           id="rect16757"
+           width="1.6201172"
+           height="42.177868"
+           x="74.085892"
+           y="128.62056" />
+      </g>
+      <g
+         id="g14474"
+         inkscape:label="трапеции">
+        <g
+           id="g14451">
+          <path
+             id="rect11982"
+             style="opacity:1;fill:#a9582d;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 72.580151,170.59637 h 5.59205 l 1.669848,6.71823 h -8.931746 z"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             id="path13158"
+             style="opacity:1;fill:#682917;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 70.017128,170.59637 h 5.59205 l 1.669848,6.71823 H 68.34728 Z"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <g
+           id="g14457"
+           transform="matrix(1,0,0,-1,0.05491912,299.25263)">
+          <path
+             id="path14453"
+             style="opacity:1;fill:#a9582d;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 72.580151,170.59637 h 5.59205 l 1.669848,6.71823 h -8.931746 z"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             id="path14455"
+             style="opacity:1;fill:#682917;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 70.017128,170.59637 h 5.59205 l 1.669848,6.71823 H 68.34728 Z"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <g
+           id="g14463"
+           transform="translate(0.05491912,-65.13408)"
+           style="display:inline">
+          <path
+             id="path14459"
+             style="opacity:1;fill:#a9582d;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 72.580151,170.59637 h 5.59205 l 1.669848,6.71823 h -8.931746 z"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             id="path14461"
+             style="opacity:1;fill:#682917;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 70.017128,170.59637 h 5.59205 l 1.669848,6.71823 H 68.34728 Z"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g19649"
+       transform="translate(144.93155)"
+       style="opacity:1"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
+      <g
+         id="g19621"
+         inkscape:label="флафон">
+        <rect
+           style="opacity:1;fill:#cd8948;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+           id="rect19617"
+           width="5.4919119"
+           height="10.379714"
+           x="69.417763"
+           y="112.035" />
+        <rect
+           style="opacity:1;fill:#e9b480;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+           id="rect19619"
+           width="5.4919119"
+           height="10.379714"
+           x="73.701454"
+           y="112.035" />
+      </g>
+      <g
+         id="g19627"
+         inkscape:label="стойка">
+        <rect
+           style="opacity:1;fill:#682917;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+           id="rect19623"
+           width="1.6201172"
+           height="42.177868"
+           x="72.795288"
+           y="128.62056" />
+        <rect
+           style="opacity:1;fill:#a8572b;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+           id="rect19625"
+           width="1.6201172"
+           height="42.177868"
+           x="74.085892"
+           y="128.62056" />
+      </g>
+      <g
+         id="g19647"
+         inkscape:label="трапеции">
+        <g
+           id="g19633">
+          <path
+             id="path19629"
+             style="opacity:1;fill:#a9582d;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 72.580151,170.59637 h 5.59205 l 1.669848,6.71823 h -8.931746 z"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             id="path19631"
+             style="opacity:1;fill:#682917;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 70.017128,170.59637 h 5.59205 l 1.669848,6.71823 H 68.34728 Z"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <g
+           id="g19639"
+           transform="matrix(1,0,0,-1,0.05491912,299.25263)">
+          <path
+             id="path19635"
+             style="opacity:1;fill:#a9582d;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 72.580151,170.59637 h 5.59205 l 1.669848,6.71823 h -8.931746 z"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             id="path19637"
+             style="opacity:1;fill:#682917;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 70.017128,170.59637 h 5.59205 l 1.669848,6.71823 H 68.34728 Z"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+        <g
+           id="g19645"
+           transform="translate(0.05491912,-65.13408)"
+           style="display:inline">
+          <path
+             id="path19641"
+             style="opacity:1;fill:#a9582d;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 72.580151,170.59637 h 5.59205 l 1.669848,6.71823 h -8.931746 z"
+             sodipodi:nodetypes="ccccc" />
+          <path
+             id="path19643"
+             style="opacity:1;fill:#682917;fill-opacity:1;stroke-width:0.2;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+             d="m 70.017128,170.59637 h 5.59205 l 1.669848,6.71823 H 68.34728 Z"
+             sodipodi:nodetypes="ccccc" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="скамейка"
+     style="display:inline">
+    <path
+       id="rect22113"
+       style="display:inline;opacity:1;fill:#722513;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       d="m 553.98828,535.68555 c -3.37445,0 -6.0918,2.71734 -6.0918,6.09179 v 4.625 h -14.75781 c -5.00219,0 -9.02929,4.02711 -9.02929,9.0293 v 0.29297 c 0,5.00219 4.0271,9.0293 9.02929,9.0293 h 14.75781 v 5.13281 h -14.75781 c -5.00219,0 -9.02929,4.02711 -9.02929,9.0293 v 0.29296 c 0,5.00219 4.0271,9.0293 9.02929,9.0293 h 14.75781 v 5.71875 h -14.75781 c -5.00219,0 -9.02929,4.02711 -9.02929,9.0293 v 0.29297 c 0,5.00219 4.0271,9.02929 9.02929,9.02929 h 14.75781 v 5.13282 h -14.75781 c -5.00219,0 -10.67059,4.71985 -7.73199,8.76788 1.69022,2.05846 1.5238,3.74175 1.56988,7.13251 v 37.55859 h 8.19141 c -0.41149,-2.26551 -0.61976,-4.57939 -0.62109,-6.90039 0.006,-5.72625 1.27107,-11.34462 3.6621,-16.26367 0.0433,-0.0901 0.0869,-0.17995 0.13086,-0.26953 0.99395,-2.00637 2.16578,-3.87186 3.49414,-5.5625 0.57618,-0.73667 1.18039,-1.43865 1.81055,-2.10352 0.72203,-0.75185 1.47707,-1.45473 2.26172,-2.10547 0.65607,-0.67552 1.33854,-1.31041 2.04492,-1.90234 h 0.53906 c 3.71319,-2.38705 7.84246,-3.63682 12.03516,-3.64258 4.20062,10e-4 8.33838,1.25102 12.05859,3.64258 h 0.66211 c 2.57694,1.88546 4.87189,4.31124 6.78321,7.16992 0.74798,1.04246 1.43956,2.14377 2.07031,3.29688 0.44398,0.81264 0.85782,1.6501 1.24023,2.50976 0.87644,1.97246 1.58022,4.05304 2.09961,6.20703 0.0726,0.30341 0.14164,0.60813 0.20703,0.91406 0.55716,2.59498 0.84459,5.26588 0.85547,7.94922 l 0.006,0.0508 -0.004,0.0508 v 0.0586 c -10e-4,2.321 -0.2096,4.63488 -0.6211,6.90039 h 8.3418 V 635.79297 H 695.4707 v 35.10742 h 8.48633 c -0.42161,-2.30107 -0.63513,-4.65175 -0.63672,-7.00977 0.004,-11.65979 5.16528,-22.40647 13.49414,-28.09765 h 25.73438 c 8.32886,5.69118 13.49005,16.43786 13.49414,28.09765 -0.002,2.35802 -0.21511,4.7087 -0.63672,7.00977 h 8.48828 v -35.10742 h 2.6543 c 5.00219,0 9.0293,-4.02711 9.02929,-9.0293 v -0.29492 c 10e-6,-5.00219 -4.0271,-9.02734 -9.02929,-9.02734 h -32.48438 v -5.13282 h 11.4961 c 5.00219,0 9.02929,-4.0271 9.02929,-9.02929 v -0.29297 c 0,-5.00219 -4.0271,-9.0293 -9.02929,-9.0293 h -11.4961 v -5.71875 h 11.4961 c 5.00219,0 9.02929,-4.02711 9.02929,-9.0293 v -0.29296 c 0,-5.00219 -4.0271,-9.0293 -9.02929,-9.0293 h -11.4961 v -5.13281 h 11.4961 c 5.00219,0 9.02929,-4.02711 9.02929,-9.0293 v -0.29297 c 0,-5.00219 -4.0271,-9.0293 -9.02929,-9.0293 h -11.4961 v -4.625 c 0,-3.37445 -2.71539,-6.09179 -6.08984,-6.09179 h -2.55469 c -3.37445,0 -6.0918,2.71734 -6.0918,6.09179 v 4.625 H 562.63477 v -4.625 c 0,-3.37445 -2.71735,-6.09179 -6.0918,-6.09179 z m 8.64649,29.06836 h 156.69335 v 5.13281 H 562.63477 Z m 0,23.48437 h 156.69335 v 5.71875 H 562.63477 Z m 0,24.07031 h 156.69335 v 5.13282 H 562.63477 Z"
+       transform="scale(0.26458333)"
+       sodipodi:nodetypes="sscssssccssssccssssccscccccccccccccccccccccccscccccccccccccssssccssssccssssccsssscssssccsssccccccccccccccc"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       id="path19729"
+       style="display:inline;opacity:1;fill:#c15127;fill-opacity:1;stroke:none;stroke-width:0.755906;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke;stop-color:#000000;stop-opacity:1"
+       d="m 533.34766,546.64258 a 9.1256314,9.1256314 0 0 0 -9.12696,9.125 9.1256314,9.1256314 0 0 0 9.12696,9.12695 9.1256314,9.1256314 0 0 0 9.125,-9.12695 9.1256314,9.1256314 0 0 0 -9.125,-9.125 z m 0,23.61328 a 9.1256314,9.1256314 0 0 0 -9.12696,9.12695 9.1256314,9.1256314 0 0 0 9.12696,9.125 9.1256314,9.1256314 0 0 0 9.125,-9.125 9.1256314,9.1256314 0 0 0 -9.125,-9.12695 z m 0,23.76172 a 9.1256314,9.1256314 0 0 0 -9.12696,9.125 9.1256314,9.1256314 0 0 0 9.12696,9.12695 9.1256314,9.1256314 0 0 0 9.125,-9.12695 9.1256314,9.1256314 0 0 0 -9.125,-9.125 z m -1.57227,23.23633 c -4.20791,0 -7.5957,3.38779 -7.5957,7.5957 0,4.20791 3.38779,7.5957 7.5957,7.5957 h 57.63477 c 4.2079,0 7.5957,-3.38779 7.5957,-7.5957 0,-4.20791 -3.3878,-7.5957 -7.5957,-7.5957 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="D:\Face logo\ЗАКАЗЫ\8 изображений\Парк вектор IMG_1576.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>
